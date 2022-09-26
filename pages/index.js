@@ -29,6 +29,8 @@ export default function Home() {
         <Link href="https://www.linkedin.com/in/kelum-chathuranga-liyanage/" target="_blank"><span className='text-cyan-600 underline cursor-pointer'>Visit profile</span></Link>
       </main>
       <span className='text-xs bg-orange-200 p-4'>This site is under construction, Please note this is only an introduction. We will be live soon.</span>
+      <p>What are the skills of a UI developer?
+UI developers need certain skills and personality traits to be successful in the job and create websites and applications that are incredibly functional. UI developers employ both hard and soft skills to collaborate with designers, engineers, and managers. They use various hard skills, such as proficiency in several programming languages and design software. Knowing your present skill set will enable you to decide which new abilities you need to acquire or develop in order to become a better UI developer.</p>
       <Script
         src="https://www.googletagmanager.com/gtag/js?id=UA-242800124-1"
         strategy="afterInteractive"
