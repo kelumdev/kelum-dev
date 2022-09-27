@@ -26,11 +26,11 @@ export default function Home() {
         </h1>
         <h5 className='mb-[12px] font-semibold'>React | HTML5 | CSS3 | SASS | BEM | GIT | TAILWIND | jQuery | Wordpress | SEO | Agile | Team Work | Leadership | Project Management | Design Systems</h5>
         <p className='mb-[32px]'>I am a UI/UX Engineer with 5+ years (and counting) of well-rounded experience in the web development industry. I love to craft awesome web sites, and Web Applications using the latest web standards and integrate usability, Cutting edge technologies, and User experience design. I always prefer clean and elegant coding, and It makes me feel sad to see bad designs.</p>
-        <Link href="https://www.linkedin.com/in/kelum-chathuranga-liyanage/" target="_blank"><span className='text-cyan-600 underline cursor-pointer'>Visit profile</span></Link>
+        <Link href="https://www.linkedin.com/in/kelum-chathuranga-liyanage/" target="_blank"><span className='underline cursor-pointer text-cyan-600'>Visit profile</span></Link>
       </main>
-      <span className='text-xs bg-orange-200 p-4'>This site is under construction, Please note this is only an introduction. We will be live soon.</span>
+      <span className='p-4 text-xs bg-orange-200'>This site is under construction, Please note this is only an introduction. We will be live soon.</span>
       <p>What are the skills of a UI developer?
-UI developers need certain skills and personality traits to be successful in the job and create websites and applications that are incredibly functional. UI developers employ both hard and soft skills to collaborate with designers, engineers, and managers. They use various hard skills, such as proficiency in several programming languages and design software. Knowing your present skill set will enable you to decide which new abilities you need to acquire or develop in order to become a better UI developer.</p>
+UI developers need certain skills and personality traits to be successful in the job and create websites and applications that are incredibly functional. UI developers employ both hard and soft skills to collaborate with designers, engineers, and managers. They use various hard skills, such as proficiency in several programming languages and design software. Knowing your present skill set will enable you to decide which new abilities you need to acquire or develop in order to become a better UI developer. </p>
       <Script
         src="https://www.googletagmanager.com/gtag/js?id=UA-242800124-1"
         strategy="afterInteractive"
